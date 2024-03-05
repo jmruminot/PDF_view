@@ -1,0 +1,14 @@
+body {
+    background-color: gainsboro;
+}
+h1 {
+    font-size: 3em;
+    margin: auto;
+    width: 95%;
+}
+.portapdf {
+    height: 80vh; aspect-ratio: 1/1;
+    border: 5px solid #484848;
+    margin: 5vh auto;
+    transform: scale(0.7); 
+}
